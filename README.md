@@ -21,6 +21,7 @@ Events I'm attending and/or speaking at.
 - 🕸 I slapped together [WebView](https://github.com/phatblat/WebView) for SwiftUI from some other OSS work
 - 🚀 I habitually log Apple's [OS and Xcode releases](https://github.com/phatblat/ApplePlatformVersions)
 - 🤔 I'm [attempting to rewrite](https://github.com/phatblat/Wallet) Apple signpass sample app in Swift
+- 🐟 [Fish](https://fishshell.com) is my preferred shell and I've written [hundreds of functions](https://github.com/phatblat/dotfiles/tree/master/.config/fish/functions) to simplify all kinds of CLI tasks
 
 ## Other stuff
 
