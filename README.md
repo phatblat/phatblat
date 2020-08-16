@@ -8,7 +8,7 @@ I have done a lot of work in Mobile DevOps, but these days I'm mainly involved i
 Events I'm attending and/or speaking at.
 
 - ~[MongoDB.live](https://www.mongodb.com/world/)~ (free) 2020-06-09 through 10
-- [360|AnDev](https://360andev.com) 2020-07-23 through 24
+- ~[360|AnDev](https://360andev.com)~ 2020-07-23 through 24
 - [360|iDev](https://360idev.com) 2020-08-16 through 19 👈🏻 **I'M [SPEAKING](https://360idev.com/speakers/ben-chatelain/) THIS YEAR!!!** 🎉
   - 🆙 [Level up your Git Commits with Gitmoji! 👍🏻](https://360idev.com/sessions/level-up-your-git-commits-with-gitmoji-👍🏻/)
   - ✅ [Unit Testing with Quick and Nimble](https://360idev.com/sessions/unit-testing-with-quick-and-nimble/)
