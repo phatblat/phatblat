@@ -8,8 +8,9 @@ I have done a lot of work in Mobile DevOps, but these days I'm mainly involved i
 Events I'm attending and/or speaking at.
 
 - [MongoDB.live](https://www.mongodb.com/live) (free) 2021-07-13 & 14
-  - Speaking about MongoDB Realm & SwiftUI
+  - Speaking about [MongoDB Realm & SwiftUI](https://app.swapcard.com/widget/event/mongodb-live-2021/planning/UGxhbm5pbmdfNDc3Nzcw)
 - [360|AnDev](https://360andev.com) 2021-08-22 & 23
+  - Explaining why [Gradle isn't just a Bad Word 🤬](https://360andev.com/session/gradle-isnt-just-a-bad-word/)
 - [360|iDev](https://360idev.com) 2021-08-22 through 25
 
 ## Contributions
