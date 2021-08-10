@@ -12,6 +12,7 @@ Events I'm attending and/or speaking at.
 - [360|AnDev](https://360andev.com) 2021-08-22 & 23
   - Explaining why [Gradle isn't just a Bad Word 🤬](https://360andev.com/session/gradle-isnt-just-a-bad-word/)
 - [360|iDev](https://360idev.com) 2021-08-22 through 25
+  - Speaking about [MongoDB Realm & SwiftUI](https://360idev.com/session/combine-ing-mongodb-realm-with-swiftui/)
 
 ## Contributions
 
