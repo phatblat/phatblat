@@ -30,7 +30,8 @@ Events I'm attending and/or speaking at.
 
 - 🌱 I’m currently learning Combine and SwiftUI
 - ⚡ Fun fact: My [first PR](https://firstpr.me/#phatblat) was a change to jekyll's WordPress migration script and was merged by [@mojombo](https://github.com/mojombo) the GitHub CEO at the time (I had no idea 😳)
-- ⌨️ Love mechanical keyboards
+- 🎫 My business card is an open source [Apple Wallet pass](https://github.com/phatblat/phatblat.pass).
+- ⌨️ Love mechanical keyboards, [my setup](https://people.zsa.io/ben-chatelain/) was featured by ZSA, the creators of the ErgoDox EZ
 
 ## Talking with me
 
