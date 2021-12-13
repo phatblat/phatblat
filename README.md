@@ -1,10 +1,9 @@
 ### Ohai 👋🏻
 
 I am a mobile library developer leading a team of iOS and Android engineers at Kaiser Permanente.
-I have done a lot of work in Mobile DevOps, but these days I'm mainly involved in architecture and act as a product owner for our team.
+I have worked on many apps as well as mobile DevOps tools, as well as enterprise architecture to support our app and library features.
 
 ## Recent Talks
-
 
 - [Combine-ing MongoDB Realm & SwiftUI](https://www.youtube.com/watch?v=XmerMABMdB0) at [MongoDB.live](https://app.swapcard.com/widget/event/mongodb-live-2021/planning/UGxhbm5pbmdfNDc3Nzcw)
 - [Combine-ing MongoDB Realm & SwiftUI](https://vimeo.com/602021588) (v2) at [360|iDev](https://360idev.com/session/combine-ing-mongodb-realm-with-swiftui/)
