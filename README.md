@@ -3,18 +3,14 @@
 I am a mobile library developer leading a team of iOS and Android engineers at Kaiser Permanente.
 I have done a lot of work in Mobile DevOps, but these days I'm mainly involved in architecture and act as a product owner for our team.
 
-## Virtual Conferences
+## Recent Talks
 
-Events I'm attending and/or speaking at.
 
-- ~~[MongoDB.live](https://www.mongodb.com/live) (free) 2021-07-13 & 14~~
-  - Speaking about [MongoDB Realm & SwiftUI](https://app.swapcard.com/widget/event/mongodb-live-2021/planning/UGxhbm5pbmdfNDc3Nzcw)
-- ~~[360|AnDev](https://360andev.com) 2021-08-22 & 23~~
-  - Explaining why [Gradle isn't just a Bad Word 🤬](https://360andev.com/session/gradle-isnt-just-a-bad-word/)
-- [Cocoaheads Denver](https://www.meetup.com/CocoaheadsDenver) 2021-08-10
-  - Speaking about [MongoDB Realm & SwiftUI](https://www.meetup.com/CocoaheadsDenver/events/279456424/)
-- [360|iDev](https://360idev.com) 2021-08-22 through 25
-  - Speaking about [MongoDB Realm & SwiftUI](https://360idev.com/session/combine-ing-mongodb-realm-with-swiftui/)
+- [Combine-ing MongoDB Realm & SwiftUI](https://www.youtube.com/watch?v=XmerMABMdB0) at [MongoDB.live](https://app.swapcard.com/widget/event/mongodb-live-2021/planning/UGxhbm5pbmdfNDc3Nzcw)
+- [Combine-ing MongoDB Realm & SwiftUI](https://vimeo.com/602021588) (v2) at [360|iDev](https://360idev.com/session/combine-ing-mongodb-realm-with-swiftui/)
+- [Gradle isn't just a Bad Word 🤬](https://vimeo.com/579588620) at [360|AnDev](https://360andev.com/session/gradle-isnt-just-a-bad-word/)
+- [Unit Testing with Quick and Nimble](https://vimeo.com/451530313) at 360|iDev 2020
+- [Level Up Your Git Commits with Gitmoji](https://vimeo.com/452644818) at 360|iDev 2020
 
 ## Contributions
 
