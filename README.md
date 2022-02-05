@@ -1,7 +1,6 @@
 ### Ohai 👋🏻
 
-I am a mobile library developer leading a team of iOS and Android engineers at Kaiser Permanente.
-I have worked on many apps as well as mobile DevOps tools, as well as enterprise architecture to support our app and library features.
+I am a mobile library developer working on [Ditto](https://ditto.live/), an amazing P2P syncing framework.
 
 ## Recent Talks
 
@@ -23,7 +22,7 @@ I have worked on many apps as well as mobile DevOps tools, as well as enterprise
 
 ## Other stuff
 
-- 🌱 I’m currently learning Combine and SwiftUI
+- 🌱 I’m currently learning Rust
 - ⚡ Fun fact: My [first PR](https://firstpr.me/#phatblat) was a change to jekyll's WordPress migration script and was merged by [@mojombo](https://github.com/mojombo) the GitHub CEO at the time (I had no idea 😳)
 - 🎫 My business card is an open source [Apple Wallet pass](https://github.com/phatblat/phatblat.pass).
 - ⌨️ Love mechanical keyboards, [my setup](https://people.zsa.io/ben-chatelain/) was featured by ZSA, the creators of the ErgoDox EZ
