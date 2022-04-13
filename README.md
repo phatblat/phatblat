@@ -34,5 +34,14 @@ I am a mobile library developer working on [Ditto](https://ditto.live/), an amaz
 
 Learn more on the [about page of my reflog](https://phatbl.at/about/).
 
-![phatblat's GitHub stats](https://github-readme-stats.vercel.app/api?username=phatblat&show_icons=true&theme=tokyonight)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=phatblat&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phatblat&layout=compact&langs_count=8&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+
+
+
+
 
