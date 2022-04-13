@@ -34,11 +34,11 @@ I am a mobile library developer working on [Ditto](https://ditto.live/), an amaz
 
 Learn more on the [about page of my reflog](https://phatbl.at/about/).
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats#readme">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=phatblat&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phatblat&layout=compact&langs_count=8&count_private=true&show_icons=true&theme=tokyonight" />
+<a href="https://github.com/anuraghazra/github-readme-stats#demo-1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phatblat&layout=compact&langs_count=10&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 
 
