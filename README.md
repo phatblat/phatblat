@@ -4,8 +4,9 @@ I am a mobile library developer working on [Ditto](https://ditto.live/), an amaz
 
 ## Recent Talks
 
-- [Combine-ing MongoDB Realm & SwiftUI](https://www.youtube.com/watch?v=XmerMABMdB0) at [MongoDB.live](https://app.swapcard.com/widget/event/mongodb-live-2021/planning/UGxhbm5pbmdfNDc3Nzcw)
+- [Ditto - Peer-to-Peer Sync for Apps](https://www.youtube.com/watch?v=dcX0R2rLYNY) at Denver Droids March Meetup
 - [Combine-ing MongoDB Realm & SwiftUI](https://vimeo.com/602021588) (v2) at [360|iDev](https://360idev.com/session/combine-ing-mongodb-realm-with-swiftui/)
+- [Combine-ing MongoDB Realm & SwiftUI](https://www.youtube.com/watch?v=XmerMABMdB0) at [MongoDB.live](https://app.swapcard.com/widget/event/mongodb-live-2021/planning/UGxhbm5pbmdfNDc3Nzcw)
 - [Gradle isn't just a Bad Word 🤬](https://vimeo.com/579588620) at [360|AnDev](https://360andev.com/session/gradle-isnt-just-a-bad-word/)
 - [Unit Testing with Quick and Nimble](https://vimeo.com/451530313) at 360|iDev 2020
 - [Level Up Your Git Commits with Gitmoji](https://vimeo.com/452644818) at 360|iDev 2020
@@ -22,7 +23,7 @@ I am a mobile library developer working on [Ditto](https://ditto.live/), an amaz
 
 ## Other stuff
 
-- 🌱 I’m currently learning Rust
+- 🦀 I’m currently learning Rust
 - ⚡ Fun fact: My [first PR](https://firstpr.me/#phatblat) was a change to jekyll's WordPress migration script and was merged by [@mojombo](https://github.com/mojombo) the GitHub CEO at the time (I had no idea 😳)
 - 🎫 My business card is an open source [Apple Wallet pass](https://github.com/phatblat/phatblat.pass).
 - ⌨️ Love mechanical keyboards, [my setup](https://people.zsa.io/ben-chatelain/) was featured by ZSA, the creators of the ErgoDox EZ
