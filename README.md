@@ -1,6 +1,6 @@
 ### Ohai 👋🏻
 
-I am a mobile library developer working on [Ditto](https://ditto.live/), an amazing P2P syncing framework.
+I am a mobile library developer working on [Ditto](https://ditto.live/), an amazing P2P syncing framework 🔄.
 
 ## Recent Talks
 
