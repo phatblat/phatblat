@@ -5,9 +5,9 @@ I am a mobile library developer working on [Ditto](https://ditto.live/), an amaz
 ## Recent Talks
 
 - [Ditto - Peer-to-Peer Sync for Apps](https://www.youtube.com/watch?v=dcX0R2rLYNY) at Denver Droids March Meetup
-- [Combine-ing MongoDB Realm & SwiftUI](https://vimeo.com/602021588) (v2) at [360|iDev](https://360idev.com/session/combine-ing-mongodb-realm-with-swiftui/)
-- [Combine-ing MongoDB Realm & SwiftUI](https://www.youtube.com/watch?v=XmerMABMdB0) at [MongoDB.live](https://app.swapcard.com/widget/event/mongodb-live-2021/planning/UGxhbm5pbmdfNDc3Nzcw)
-- [Gradle isn't just a Bad Word 🤬](https://vimeo.com/579588620) at [360|AnDev](https://360andev.com/session/gradle-isnt-just-a-bad-word/)
+- [Combine-ing MongoDB Realm & SwiftUI](https://vimeo.com/602021588) (v2) at 360|iDev 2021
+- [Combine-ing MongoDB Realm & SwiftUI](https://www.youtube.com/watch?v=XmerMABMdB0) at MongoDB.live 2021
+- [Gradle isn't just a Bad Word 🤬](https://vimeo.com/579588620) at [360|AnDev 2021](https://360andev.com/session/gradle-isnt-just-a-bad-word/)
 - [Unit Testing with Quick and Nimble](https://vimeo.com/451530313) at 360|iDev 2020
 - [Level Up Your Git Commits with Gitmoji](https://vimeo.com/452644818) at 360|iDev 2020
 
