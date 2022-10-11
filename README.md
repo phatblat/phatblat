@@ -4,6 +4,7 @@ I am a mobile library developer working on [Ditto](https://ditto.live/), an amaz
 
 ## Recent Talks
 
+- [Ditto](https://www.meetup.com/cocoaheadsdenver/events/285830578/) at CocoaHeads Denver
 - [Ditto - Peer-to-Peer Sync for Apps](https://www.youtube.com/watch?v=dcX0R2rLYNY) at Denver Droids March Meetup
 - [Combine-ing MongoDB Realm & SwiftUI](https://vimeo.com/602021588) (v2) at 360|iDev 2021
 - [Combine-ing MongoDB Realm & SwiftUI](https://www.youtube.com/watch?v=XmerMABMdB0) at MongoDB.live 2021
