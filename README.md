@@ -4,7 +4,7 @@ I am a mobile library developer working on [Ditto](https://ditto.live/), an amaz
 
 ## Recent Talks
 
-- [Using Rust in Your Next KMP App]([https://nyc.droidcon.com/ben-chatelain/](https://www.droidcon.com/2024/10/17/using-rust-in-your-next-kmp-app/)) at Droidcon NY 2024
+- [Using Rust in Your Next KMP App](https://www.droidcon.com/2024/10/17/using-rust-in-your-next-kmp-app/) at Droidcon NY 2024
 - [How to Quickly Build KMP Offline-First Apps that Support both Cloud and Local Peer-to-Peer](https://www.droidcon.com/2024/07/17/how-to-quickly-build-kmp-offline-first-applications-that-supports-both-cloud-and-local-peer-to-peer/) at Droidcon SF 2024
 - [Ditto](https://www.meetup.com/cocoaheadsdenver/events/285830578/) at CocoaHeads Denver
 - [Ditto - Peer-to-Peer Sync for Apps](https://www.youtube.com/watch?v=dcX0R2rLYNY) at Denver Droids March Meetup
