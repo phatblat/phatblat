@@ -22,7 +22,7 @@ Agentic developer. I spec products, task agents to build them, and review the re
 
 - [Using Rust in Your Next KMP App](https://www.droidcon.com/2024/10/17/using-rust-in-your-next-kmp-app/) — Droidcon NY 2024
 - [Building KMP Offline-First Apps with Cloud and Local P2P](https://www.droidcon.com/2024/07/17/how-to-quickly-build-kmp-offline-first-applications-that-supports-both-cloud-and-local-peer-to-peer/) — Droidcon SF 2024
-- [Gradle isn't just a Bad Word 🤬](https://vimeo.com/579588620) — 360|AnDev 2021
+- Gradle isn't just a Bad Word 🤬 — 360|AnDev 2021
 
 ## Etc
 
