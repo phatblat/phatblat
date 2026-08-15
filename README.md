@@ -1,14 +1,14 @@
-### Ohai 👋️
+# Ben Chatelain
 
-I build multiplatform SDKs and the CI/agent tooling other engineers ship on. Currently at [Ditto](https://ditto.live/): Kotlin Multiplatform and Java SDKs, GitHub Actions platform work, self-hosted runner fleets, and agentic workflows in the everyday developer loop.
+I build multiplatform SDKs and the CI/agent tooling other engineers ship on. Currently at [Ditto](https://ditto.live/) on AI strategy, plus Kotlin Multiplatform and Java SDKs, GitHub Actions, self-hosted runner fleets, and agentic workflows in the everyday developer loop.
 
 ## What I'm working on
 
+- 🎯 **Ditto's AI strategy** — where agents, models, and developer workflow fit across engineering.
 - 🧩 **Kotlin Multiplatform and Java SDKs** — led the KMP rearchitecture and a new Java/desktop SDK (Ditto SDK v5). Still in the mix across Android, Apple platforms, and Rust.
 - 🤖 **Agentic code review on every PR** — an internal GitHub Action that scopes the LLM to the actual review while the rote work (comments, metrics) runs in deterministic TypeScript. Cheap enough to run on every PR at scale; adopted across 16 repos.
-- 🏗️ **Buildkite → GitHub Actions migration** across macOS, Windows, and Linux SDK pipelines — a multi-quarter effort covering release correctness, decommissioning, and runner reliability.
-- 🖥️ **Runner fleet ops** — ~40 macOS arm64 and Windows runners across on-prem and EC2 dedicated hosts. Prototyped a dual-VM-per-host Tart config that doubled macOS concurrency within existing licensing.
-- ☕ **Coffee and Codex** — a recurring, cross-functional hands-on session for AI adoption across engineering.
+- 🖥️ **Runner fleet ops** — ~40 macOS arm64 and Windows runners across on-prem and EC2 dedicated hosts. Prototyped a dual-VM-per-host Tart config that doubled macOS concurrency within existing licensing. SDK pipelines now run on GitHub Actions after a finished Buildkite migration.
+- ☕ **Coffee and Agents** — a recurring, cross-functional hands-on session for AI adoption across engineering.
 
 ## Open source
 
