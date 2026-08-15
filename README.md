@@ -9,14 +9,14 @@ I build multiplatform SDKs and the CI/agent tooling other engineers ship on. Cur
 - 🤖 **Agentic code review on every PR** — an internal GitHub Action that scopes the LLM to the actual review while the rote work (comments, metrics) runs in deterministic TypeScript. Cheap enough to run on every PR at scale; adopted across 16 repos.
 - 🖥️ **Runner fleet ops** — ~40 macOS arm64 and Windows runners across on-prem and EC2 dedicated hosts. Prototyped a dual-VM-per-host Tart config that doubled macOS concurrency within existing licensing. SDK pipelines now run on GitHub Actions after a finished Buildkite migration.
 - ☕ **Coffee and Agents** — a recurring, cross-functional hands-on session for AI adoption across engineering.
+- 🛠️ **Agent harnesses** in [dotfiles](https://github.com/phatblat/dotfiles) — the personal setup I iterate on in the open.
 
 ## Open source
 
-- 📦 I maintain [mas](https://github.com/mas-cli/mas), the Mac App Store CLI — 12k ★, the standard way to script App Store installs on managed macOS fleets.
-- 🙌🏻 Core contributor to [Quick](https://github.com/Quick/Quick) and [Nimble](https://github.com/Quick/Nimble).
+- 🛠️ [dotfiles](https://github.com/phatblat/dotfiles) is where I build agent harnesses in the open (shell config still lives there too).
 - 🚀 I publish [ApplePlatformVersions](https://github.com/phatblat/ApplePlatformVersions) — machine readable release metadata for Apple platforms and build tools.
 - 🐚 I wrote [ShellExec](https://github.com/phatblat/ShellExec), a Gradle plugin for running CLI commands.
-- 🐟 [Fish](https://fishshell.com) is my shell; a few hundred [functions](https://github.com/phatblat/dotfiles/tree/master/.config/fish/functions) live in my dotfiles.
+- Previously: [mas](https://github.com/mas-cli/mas) (Mac App Store CLI), and core contributions to [Quick](https://github.com/Quick/Quick) and [Nimble](https://github.com/Quick/Nimble).
 
 ## Talks
 
