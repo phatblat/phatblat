@@ -1,6 +1,6 @@
 # Ben Chatelain
 
-Agentic developer. I spec products, task agents to build them, and review the results. Career polyglot; these days I mostly don't write the code. Currently at [Ditto](https://ditto.live/) on AI strategy, GitHub Actions, self-hosted runner fleets, and the agent loop the rest of engineering ships on.
+Agentic developer. I spec products, task agents to build them, and review the results. Career polyglot; these days I mostly don't write the code. Currently at [Ditto](https://ditto.com/) on AI strategy, GitHub Actions, self-hosted runner fleets, and the agent loop the rest of engineering ships on.
 
 ## What I'm working on
 
