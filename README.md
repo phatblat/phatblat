@@ -1,11 +1,12 @@
 # Ben Chatelain
 
-I build multiplatform SDKs and the CI/agent tooling other engineers ship on. Currently at [Ditto](https://ditto.live/) on AI strategy, plus Kotlin Multiplatform and Java SDKs, GitHub Actions, self-hosted runner fleets, and agentic workflows in the everyday developer loop.
+Agentic developer. I spec products, task agents to build them, and review the results. Career polyglot; these days I mostly don't write the code. Currently at [Ditto](https://ditto.live/) on AI strategy, GitHub Actions, self-hosted runner fleets, and the agent loop the rest of engineering ships on.
 
 ## What I'm working on
 
 - 🎯 **Ditto's AI strategy** — where agents, models, and developer workflow fit across engineering.
-- 🧩 **Kotlin Multiplatform and Java SDKs** — led the KMP rearchitecture and a new Java/desktop SDK (Ditto SDK v5). Still in the mix across Android, Apple platforms, and Rust.
+- 📋 **Spec, task, review** — agents do the building. I write the spec, then review what comes back.
+- 🔍 **[`review-pr`](https://github.com/phatblat/dotfiles/blob/master/.config/nushell/autoload/review-pr.nu)** — a custom function that flags findings on a PR; I go through those by hand.
 - 🤖 **Agentic code review on every PR** — an internal GitHub Action that scopes the LLM to the actual review while the rote work (comments, metrics) runs in deterministic TypeScript. Cheap enough to run on every PR at scale; adopted across 16 repos.
 - 🖥️ **Runner fleet ops** — ~40 macOS arm64 and Windows runners across on-prem and EC2 dedicated hosts. Prototyped a dual-VM-per-host Tart config that doubled macOS concurrency within existing licensing. SDK pipelines now run on GitHub Actions after a finished Buildkite migration.
 - ☕ **Coffee and Agents** — a recurring, cross-functional hands-on session for AI adoption across engineering.
@@ -16,7 +17,7 @@ I build multiplatform SDKs and the CI/agent tooling other engineers ship on. Cur
 - 🛠️ [dotfiles](https://github.com/phatblat/dotfiles) is where I build agent harnesses in the open (shell config still lives there too).
 - 🚀 I publish [ApplePlatformVersions](https://github.com/phatblat/ApplePlatformVersions) — machine readable release metadata for Apple platforms and build tools.
 - 🐚 I wrote [ShellExec](https://github.com/phatblat/ShellExec), a Gradle plugin for running CLI commands.
-- Previously: [mas](https://github.com/mas-cli/mas) (Mac App Store CLI), and core contributions to [Quick](https://github.com/Quick/Quick) and [Nimble](https://github.com/Quick/Nimble).
+- Previously: [mas](https://github.com/mas-cli/mas) (Mac App Store CLI), and core contributions to [Quick](https://github.com/Quick/Quick) and [Nimble](https://github.com/Quick/Nimble). Led Ditto's KMP and Java SDKs through the v5 rearchitecture.
 
 ## Talks
 
