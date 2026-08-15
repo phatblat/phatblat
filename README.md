@@ -15,7 +15,6 @@ Agentic developer. I spec products, task agents to build them, and review the re
 ## Open source
 
 - 🛠️ [dotfiles](https://github.com/phatblat/dotfiles) is where I build agent harnesses in the open (shell config still lives there too).
-- 🚀 I publish [ApplePlatformVersions](https://github.com/phatblat/ApplePlatformVersions) — machine readable release metadata for Apple platforms and build tools.
 - 🐚 I wrote [ShellExec](https://github.com/phatblat/ShellExec), a Gradle plugin for running CLI commands.
 - Previously: [mas](https://github.com/mas-cli/mas) (Mac App Store CLI), and core contributions to [Quick](https://github.com/Quick/Quick) and [Nimble](https://github.com/Quick/Nimble). Led Ditto's KMP and Java SDKs through the v5 rearchitecture.
 
