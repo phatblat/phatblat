@@ -5,6 +5,7 @@ Agentic developer. I spec products, task agents to build them, and review the re
 ## What I'm working on
 
 - 🎯 **Ditto's AI strategy** — where agents, models, and developer workflow fit across engineering.
+- 🦾 **Ditto's internal AI stack** - testing and optimizing our proxy/router in front of open models running on a B300 cluster.
 - 📋 **Spec, task, review** — agents do the building. I write the spec, then review what comes back.
 - 🔍 **[`review-pr`](https://github.com/phatblat/dotfiles/blob/master/.config/nushell/autoload/review-pr.nu)** — a custom function that flags findings on a PR; I go through those by hand.
 - 🤖 **Agentic code review on every PR** — an internal GitHub Action that scopes the LLM to the actual review while the rote work (comments, metrics) runs in deterministic TypeScript. Cheap enough to run on every PR at scale; adopted across 16 repos.
