@@ -7,7 +7,7 @@ Agentic developer. I spec products, task agents to build them, and review the re
 - 🦾 **Ditto's internal AI stack** - driving agents with and testing our internal AI stack.
 - 📋 **Spec, task, review** — agents do the building. I write the spec, then review what comes back.
 - 🔍 **[`review-pr`](https://github.com/phatblat/dotfiles/blob/master/.config/nushell/autoload/review-pr.nu)** — a custom function that flags findings on a PR; I go through those by hand.
-- 🤖 **Agentic code review on every PR** — an internal GitHub Action that scopes the LLM to the actual review while the rote work (comments, metrics) runs in deterministic TypeScript. Cheap enough to run on every PR at scale; adopted across 16 repos.
+- 🤖 **Agentic code review on every PR** — an internal GitHub Action that scopes the LLM to the actual review while the rote work (comments, metrics) runs in deterministic TypeScript. Cheap enough to run on every PR at scale; adopted across 16 repos. OSS version: (agentic-review)[https://github.com/phatblat/agentic-review].
 - ☕ **Coffee and Agents** — a recurring, cross-functional hands-on session for AI adoption across engineering.
 - 🛠️ **Agent harnesses** in [dotfiles](https://github.com/phatblat/dotfiles) — the personal setup I iterate on in the open.
 - 🖥️ **CI runner fleet ops** — ~40 macOS arm64 and Windows runners across on-prem and EC2 dedicated hosts. Prototyped a dual-VM-per-host Tart config that doubled macOS concurrency within existing licensing. SDK pipelines now run on GitHub Actions after a finished Buildkite migration.
